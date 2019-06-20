@@ -51,11 +51,11 @@ class Mnist(Dataset):
 if __name__ == '__main__':
 
     dataloader = DataLoader(CelebA(''), \
-        batch_size=64, shuffle=True, num_workers=6)
-    trainBatch = next(iter(dataloader))
+        batch_size=64, shuffle=True, num_workers=6) # Set the dataset class and path here.
+    batch = next(iter(dataloader))
     plt.figure(figsize=(8, 8))
     plt.axis('off')
-    plt.title('Training Images')
-    plt.imshow(np.transpose(vutils.make_grid(trainBatch, padding=2, \
+    plt.title('Sample Images')
+    plt.imshow(np.transpose(vutils.make_grid(batch, padding=2, \
         normalize=True), (1, 2, 0)))
     plt.show()
