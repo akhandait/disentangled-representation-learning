@@ -1,5 +1,5 @@
 # disentangled-representation-learning
-Supervised learning project in which I try to combine some ideas on generative networks and disentangled representation learning
+In this research project, I try to combine some ideas on generative networks and disentangled representation learning.
 
 I have given a summary below. Please check out the [report](report.pdf) for more details.
 I will clean up the code and put some documentation soon.
