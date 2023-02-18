@@ -59,7 +59,7 @@ It can be also verified by looking at the plot of the Q loss for the continuous 
 
 These are some samples obtained by varying the latent variables of a trained VAEInfoGAN model on the CelebA dataset:
 
-![](https://drive.google.com/file/d/1pu_tQbSvHg4jhu5ciIJ8CgczPd2CoJkn/uc?usp=share_link)
+![](https://drive.google.com/file/d/1pu_tQbSvHg4jhu5ciIJ8CgczPd2CoJkn/preview)
 
 From top to bottom, the variables have learnt the following factors of variation:
 1) Age 2) Gender 3) Hair color 4) Hair length 5) Sunglasses add/remove
