@@ -1,7 +1,7 @@
 # disentangled-representation-learning
 In this research project, I try to combine some ideas on generative networks and disentangled representation learning.
 
-I have given a summary below. Please check out the [report](report.pdf) for more details.
+I have given a summary below. Please check out the [report](https://drive.google.com/file/d/15JRPGlXv9w9gGhwlzibVfwRpKiUfXg8Z/view?usp=sharing) for more details.
 I will clean up the code and put some documentation soon.
 
 
