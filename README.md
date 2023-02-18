@@ -40,10 +40,10 @@ It should be noted that following samples are as is with no hyperparameter tunin
 
 |Unrolling steps|                    Thickness                    |                    Rotation                    |
 | :-----------: | :---------------------------------------------------: | :---------------------------------------------------: |
-| 0(InfoGAN) | ![](unrolled_infogan/samples/sample_continous1_0.png) | ![](unrolled_infogan/samples/sample_continous2_0.png) |
-| 5           | ![](unrolled_infogan/samples/sample_continous1_5.png) | ![](unrolled_infogan/samples/sample_continous2_5.png) |
-| 7           | ![](unrolled_infogan/samples/sample_continous1_7.png) | ![](unrolled_infogan/samples/sample_continous2_7.png) |
-| 10           | ![](unrolled_infogan/samples/sample_continous1_10.png) | ![](unrolled_infogan/samples/sample_continous2_10.png) |
+| 0(InfoGAN) | ![](https://i.imgur.com/bNhzTUl.png) | ![](https://i.imgur.com/NF1SrpS.png) |
+| 5           | ![](https://i.imgur.com/F3KzygB.png) | ![](https://i.imgur.com/UnTtsQV.png) |
+| 7           | ![](https://i.imgur.com/TVwwrjw.png) | ![](https://i.imgur.com/9MZ8zhj.png) |
+| 10           | ![](https://i.imgur.com/fRVDCAr.png) | ![](https://i.imgur.com/soFzLuS.png) |
 
 We can see that the disentangling performance gets better and better as we increase the number of unrolling steps.
 
@@ -51,7 +51,7 @@ We can see that the disentangling performance gets better and better as we incre
 
 It can be also verified by looking at the plot of the Q loss for the continuous variables. As we can see the discrete variable loss goes to almost zero even with no unrolling(digits are separated vertically), so it is not plotted.
 
-![](unrolled_infogan/samples/lossesQCon.png)
+![](https://i.imgur.com/6cqJqo1.png)
 
 
 
